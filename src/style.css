@@ -1,0 +1,21 @@
+footer {
+    padding: 1rem;
+    background-color: #4278ff;
+    color: white;
+}
+
+footer a {
+    font-weight: bold;
+    text-decoration: none;
+    color: var(--bg);
+}
+
+footer a:hover {
+    color: rgb(35, 229, 255);
+}
+
+footer li {
+    list-style: none;
+    display: inline;
+    margin: 0.5rem;
+}

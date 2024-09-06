@@ -24,7 +24,7 @@ Laci Digital adalah aplikasi web sederhana untuk memantau jumlah uang masuk dan 
 
 1. Clone repository ini:
    ```bash
-   git clone https://github.com/username/laci-digital.git
+   git clone https://github.com/Anjaszz/Laci-digital.git
 2. Buka file index.html di browser favorit Anda atau gunakan live server dari code editor seperti VSCode.
 
 ## Kontribusi
